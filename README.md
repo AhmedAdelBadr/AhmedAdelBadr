@@ -32,13 +32,22 @@ I also run **Facebook and Instagram lead campaigns** for an apartment-sales busi
 | [**PMO Portfolio Analytics**](https://github.com/AhmedAdelBadr/pmo-portfolio-sql-analytics) | Which projects are at risk, what will they cost at completion, which PMs deliver, and where is open risk concentrated? | EVM semantic layer, `ROLLUP` forecasts, `LAG` trends, risk heat map, data-quality checks, CI |
 | [**Real Estate Sales & Ads Analytics**](https://github.com/AhmedAdelBadr/real-estate-sales-sql-analytics) | Is Facebook or Instagram cheaper per sale? Does replying faster win viewings? What should we do with each stale listing? | Full ad → lead → sale funnel, ROAS, cohorts, `FIRST_VALUE` attribution, `LATERAL` action lists, CI |
 
-Every project is **reproducible with one command** (Docker + PostgreSQL 16), is checked by **GitHub Actions** on every push, and opens with the business questions and key findings, not just code.
+**Earlier work: Python & machine learning (Udacity AI with Python + Machine Learning Nanodegrees)**
+
+| Project | Topic |
+|---|---|
+| [Image Classifier](https://github.com/AhmedAdelBadr/Image_Classifier_Master) | Deep learning image classification app (PyTorch) |
+| [Finding Donors for CharityML](https://github.com/AhmedAdelBadr/-Finding-Donors-For-CharityML) | Supervised learning to predict likely donors |
+| [Student Admissions](https://github.com/AhmedAdelBadr/Student-Admission) | Neural network from scratch |
+| [Titanic Survival Exploration](https://github.com/AhmedAdelBadr/Udacity-Titanic_Survival_Exploration-Solution) | EDA and decision rules |
+
+Every SQL project is **reproducible with one command** (Docker + PostgreSQL 16), is checked by **GitHub Actions** on every push, and opens with the business questions and key findings, not just code.
 
 ---
 
 ### 🛠️ Toolbox
 
-**Data:** SQL (PostgreSQL) · Excel · Power BI  
+**Data:** SQL (PostgreSQL) · Excel · Power BI · Python (pandas, scikit-learn)  
 **Methods:** KPI design · Earned Value Management · funnel and cohort analysis · data quality  
 **Ways of working:** Git & GitHub · GitHub Actions · Docker · stakeholder reporting
 
