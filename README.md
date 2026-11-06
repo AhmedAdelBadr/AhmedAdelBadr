@@ -1,10 +1,11 @@
-<h1 align="center">Ahmed Adel Badr</h1>
+<h1 align="center">Ahmed Adel Badr, PMP®</h1>
 <h3 align="center">Data & BI Analyst · PMO Team Lead · SQL · Power BI · Project Controls</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PMP®-Certified-1F4E79" />
   <img src="https://img.shields.io/badge/Domain-PMO%20%7C%20Project%20Controls-0A66C2" />
   <img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-E4405F" />
 </p>
@@ -17,7 +18,7 @@ I turn operational data into decisions. For **5+ years** I have worked where pro
 
 I also run **Facebook and Instagram lead campaigns** for an apartment-sales business, so I work with marketing funnels, cost per lead and ROAS first-hand.
 
-- 🎓 B.Sc. Civil Engineering, **Cairo University**
+- 🎓 B.Sc. Civil Engineering, **Cairo University** · **PMP®** certified
 - 📊 Portfolio reporting: Earned Value (SPI / CPI), RAG status, milestone and risk tracking
 - 🧮 SQL for analysis: CTEs, window functions, cohorts, funnels, data-quality rules
 - 📈 Power BI dashboards for executives and operations teams
@@ -55,4 +56,6 @@ Every SQL project is **reproducible with one command** (Docker + PostgreSQL 16),
 
 ### 📫 Contact
 
-Reach me through GitHub. LinkedIn and email will be added soon.
+<a href="https://www.linkedin.com/in/ahmed-adel-badr/"><img src="https://img.shields.io/badge/LinkedIn-ahmed--adel--badr-0A66C2?logo=linkedin&logoColor=white" /></a>
+
+Open to remote Data / BI Analyst roles. The fastest way to reach me is LinkedIn.
