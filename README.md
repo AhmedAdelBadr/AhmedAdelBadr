@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/SQL-PostgreSQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/BI-Power%20BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PMP®-Certified-1F4E79" />
+  <img src="https://img.shields.io/badge/PMP%C2%AE-Certified-1F4E79" />
   <img src="https://img.shields.io/badge/Domain-PMO%20%7C%20Project%20Controls-0A66C2" />
   <img src="https://img.shields.io/badge/Domain-Marketing%20Analytics-E4405F" />
 </p>
