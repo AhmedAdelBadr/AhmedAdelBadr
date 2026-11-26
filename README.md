@@ -1,6 +1,6 @@
 <h1 align="center">Ahmed Adel Badr</h1>
 <h3 align="center">Data Engineer · BI Developer · AI Automation</h3>
-<p align="center">SQL · Python · Data Architecture · Power BI · LLM-powered analytics</p>
+<p align="center">SQL · Python · Data Architecture · Power BI · LLMs: Claude · ChatGPT · Gemini · Ollama</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
@@ -10,7 +10,10 @@
   <img src="https://img.shields.io/badge/DAX%20%7C%20Power%20Query-F2C811" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-Ollama-000000" />
+  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
 </p>
 
 ---
@@ -88,7 +91,7 @@ A 3D model rendered inside Power BI and driven by a schedule: scrub the timeline
 **Data engineering:** Medallion architecture · ETL / ELT · star-schema modeling · data-quality testing · API integrations  
 **Python:** pandas · NumPy · SQLAlchemy · Flask · Jupyter · scikit-learn  
 **BI:** Power BI · DAX · Power Query · Power BI REST API · Excel (Power Pivot) · Tableau  
-**AI:** LLM assistants over company data · Ollama · report and alert automation  
+**AI:** Claude · ChatGPT · Gemini · Ollama · LLM assistants over company data · report and alert automation  
 **Engineering practice:** Git & GitHub · GitHub Actions · Docker
 
 ---
