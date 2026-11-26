@@ -44,7 +44,13 @@ An executive dashboard with **Pulse**, an AI assistant that answers questions ab
 
 `Power BI` `DAX` `Power BI REST API` `Python` `SQLite` `LLM (Ollama)`
 
-▶️ [Watch the full demo (1:30)](assets/pmo-ai-assistant-demo.mp4)
+
+
+https://github.com/user-attachments/assets/91c63f40-2d89-4333-8be7-cb03cfb1a5d6
+
+
+
+
 
 </td>
 <td width="50%" valign="top">
@@ -57,7 +63,11 @@ A 3D model rendered inside Power BI and driven by a schedule: scrub the timeline
 
 `Power BI` `Custom 3D visual` `DAX` `Data modeling`
 
-▶️ [Watch the full demo (0:55)](assets/powerbi-4d-demo.mp4)
+
+
+https://github.com/user-attachments/assets/72c91a53-4229-40c0-8077-59634d7a95a1
+
+
 
 </td>
 </tr>
