@@ -32,11 +32,7 @@ I build the data layer behind decisions: from **source systems and databases**, 
 
 ### 🎬 Showcase
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Power BI dashboard + AI assistant**
+#### 🤖 Power BI dashboard + AI assistant
 
 https://github.com/user-attachments/assets/91c63f40-2d89-4333-8be7-cb03cfb1a5d6
 
@@ -44,20 +40,13 @@ An executive dashboard with **Pulse**, an AI assistant that answers questions ab
 
 `Power BI` `DAX` `Power BI REST API` `Python` `SQLite` `LLM (Ollama)`
 
-</td>
-<td width="50%" valign="top">
-
-**4D model inside Power BI**
+#### 🏗️ 4D model inside Power BI
 
 https://github.com/user-attachments/assets/72c91a53-4229-40c0-8077-59634d7a95a1
 
 A 3D model rendered inside Power BI and driven by a schedule: scrub the timeline and elements appear on their planned dates. Every element carries its type, floor, cost and dates, and the quantities, S-curve and cash flow roll up from the same data.
 
 `Power BI` `Custom 3D visual` `DAX` `Data modeling`
-
-</td>
-</tr>
-</table>
 
 ---
 
